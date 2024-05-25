@@ -4,9 +4,16 @@
 - ~C x h~ Select the entire region.
 - ~C M \~ Indenting region.
 - ~C c /~ Close region.
-
 ** Insert elements
-- ~C c RET~ New paragraph.
+- ~C c RET~ and ~p TAG~ (doom) New paragraph.
 - ~C c C c u~ Unordered list.
 - ~C c C c o~ Ordered list.
 - ~C c C c l~ Next item.
+- ~C c C n <character>~ special character.
+- ~C c C c h~ link.
+** other
+- ~C x C ;~ and ~g c c~ (doom) comment a line
+- ~C c TAB~ toogle the visibility text/tags
+- ~C c C t~ insert new tag
+** Images
+- ~C c C c i~ insert image
