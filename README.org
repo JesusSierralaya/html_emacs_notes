@@ -1,5 +1,6 @@
-#+title: Readme
+#+title: Practice html on Emacs
 
+* Shortcuts
 ** Main shortcuts
 - ~C x h~ Select the entire region.
 - ~C M \~ Indenting region.
