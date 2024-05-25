@@ -1,14 +1,12 @@
 #+title: Readme
 
 ** Main shortcuts
-
-~C x h~ Select the entire region.
-~C M \~ Indenting region.
-~C c /~ Close region.
+- ~C x h~ Select the entire region.
+- ~C M \~ Indenting region.
+- ~C c /~ Close region.
 
 ** Insert elements
-
-~C c RET~ New paragraph.
-~C c C c u~ Unordered list.
-~C c C c o~ Ordered list.
-~C c C c l~ Next item.
+- ~C c RET~ New paragraph.
+- ~C c C c u~ Unordered list.
+- ~C c C c o~ Ordered list.
+- ~C c C c l~ Next item.
